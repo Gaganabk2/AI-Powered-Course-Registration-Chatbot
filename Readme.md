@@ -1,6 +1,6 @@
 # AI-Powered Course Registration Chatbot 🤖📚
 
-![Course Registration Chatbot](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=AI+Course+Registration+Chatbot)
+![Course Registration Chatbot](https://github.com/Gaganabk2/AI-Powered-Course-Registration-Chatbot/blob/master/ibm.jpeg)
 
 > An intelligent chatbot designed to streamline the course registration process using artificial intelligence and natural language processing.
 
