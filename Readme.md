@@ -1,4 +1,4 @@
-# AI-Powered Course Registration Chatbot 🤖📚
+# AI Chatbot for University Registration Using IBM Watson Machine Learning 🤖📚
 
 ![Course Registration Chatbot](https://github.com/Gaganabk2/AI-Powered-Course-Registration-Chatbot/blob/master/ibm.jpeg)
 
